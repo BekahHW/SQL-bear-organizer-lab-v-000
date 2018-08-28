@@ -12,4 +12,4 @@ INSERT INTO bears VALUES (6, 'Grinch', 9, 'F', 'brown', 'gentle', 1);
 
 INSERT INTO bears VALUES (7, 'Wendy', 29, 'F', 'brown', 'gentle', 1);
 
-INSERT INTO bears VALUES (8, 'null', 10, 'F', 'brown', 'protective', 1);
+INSERT INTO bears VALUES (8, null, 10, 'F', 'brown', 'protective', 1);
